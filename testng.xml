@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Regression Testin Suite" verbose="1" parallel="false">
+    <!--    <listeners>-->
+    <!--        <listener class-name=""/>-->
+    <!--    </listeners>-->
+    <test name="First Test" parallel="instances" thread-count="40">
+
+
+   <packages>
+       <package name="com.lits.kaminskyi"></package>
+   </packages>
+    </test>
+</suite>

@@ -1,0 +1,10 @@
+<suite name="Test App">
+
+    <test name="final">
+        <classes>
+            <class name="com.lits.kaminskyi.calculator" />
+            <class name="com.lits.kaminskyi.calculator" />
+        </classes>
+    </test>
+
+</suite>
