@@ -1,6 +1,5 @@
 package com.lits.kaminskyi.HW_1;
 
-
 import com.lits.calculator.Calculator;
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
